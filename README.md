@@ -28,10 +28,6 @@ https://code.jquery.com/jquery-3.2.1.min.js
   ```javascript
   $('#myVideo').videoCornerPlugin();
  ```
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **Théo CHASSEUR** - *Initial work* - [WhySimply](https://github.com/WhySimply)
