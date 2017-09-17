@@ -9,7 +9,7 @@
         setInterval(function () {
             scroll = $(window).scrollTop();
             if (scroll >= 75) {
-                if(closeVideoBool === false){
+                if(!closeVideoBool){
                     setTimeout(function () {
                         $('iframe').attr({
                             "width": "300px",
