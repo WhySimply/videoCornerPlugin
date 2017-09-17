@@ -1,4 +1,3 @@
 # videoCornerPlugin
-Plugin to put a YouTube video in the top right corner
 -----------------------------------------------------------
-
+Plugin permettant de déplacer une vidéo youtube d'une landing page tout en haut a droite de l'écran (comme le nouveau plugin facebook).
