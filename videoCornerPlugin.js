@@ -23,8 +23,8 @@
                             "background-image": "url('https://www.healthlinkbc.ca/hlbc/themes/hlbc/assets/img/menu-close-x.png')",
                             "background-repeat": "no-repeat",
                             "background-position": "top right",
-                            "opacity": "1",
                             "margin": "0",
+                            "padding": "0",
                             "background-color": "transparent"
                         });
                     }, 0);
