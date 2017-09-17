@@ -25,7 +25,7 @@ https://code.jquery.com/jquery-3.2.1.min.js
 </div>
  ```
  4. You just have to call the function videoCornerPlugin ()
-  ```html
+  ```javascript
   $('#myVideo').videoCornerPlugin();
  ```
 ## Versioning
@@ -34,4 +34,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Théo CHASSEUR** - *Initial work* - [WhySimply](https://github.com/WhySimply)
