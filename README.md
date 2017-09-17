@@ -14,7 +14,7 @@ https://code.jquery.com/jquery-3.2.1.min.js
 ### Installation
 
 1. Surround the iframe of your youtube video with a div
-2. Made the link between your page and the plugin.js file, like this: 
+2. Made the link between your page and the videoCornerPlugin.js file, like this: 
  ```html
  <script src="videoCornerPlugin.js"></script>
  ```
