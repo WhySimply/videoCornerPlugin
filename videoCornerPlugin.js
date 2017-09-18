@@ -32,6 +32,7 @@
                     result.hide();
                 }
             } else {
+                console.log('on revient de base');
                 result.removeAttr('style');
                 $('iframe').attr({
                     "width": originalAttributesWidth,
