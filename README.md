@@ -16,7 +16,7 @@ https://code.jquery.com/jquery-3.2.1.min.js
 1. Surround the iframe of your youtube video with a div
 2. Made the link between your page and the videoCornerPlugin.js file, like this: 
  ```html
- <script src="videoCornerPlugin.js"></script>
+ <script type="text/javascript" src="videoCornerPlugin.js"></script>
  ```
  3. Put a div containing an ID around the iframe of your youtube video
  ```html
