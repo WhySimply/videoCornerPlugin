@@ -1,4 +1,4 @@
-# Vidéo Corner Plugin
+# Video Corner Plugin
 
 Move a youtube video to the top right when scroll.
 
