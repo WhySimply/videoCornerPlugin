@@ -17,7 +17,7 @@
                         });
                         result.css({
                             "position": "fixed",
-                            "top": "25px",
+                            "top": "75px",
                             "left": "25px",
                             "width": "320px",
                             "background-image": "url('https://www.healthlinkbc.ca/hlbc/themes/hlbc/assets/img/menu-close-x.png')",
@@ -25,7 +25,8 @@
                             "background-position": "top right",
                             "margin": "0",
                             "padding": "0",
-                            "background-color": "transparent"
+                            "background-color": "transparent",
+                            "z-index": "20"
                         });
                     }, 0);
                 }else{
