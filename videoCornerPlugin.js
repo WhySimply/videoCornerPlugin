@@ -6,9 +6,10 @@
         var originalAttributesWidth = selectIframe.attr('width');
         var originalAttributesHeight = selectIframe.attr('height');
         var scroll = 0;
+        var offset = result.offset().top;
         setInterval(function () {
             scroll = $(window).scrollTop();
-            if (scroll >= 75) {
+            if (scroll >= offset + 50) {
                 if(!closeVideoBool){
                     setTimeout(function () {
                         $('iframe').attr({
@@ -33,7 +34,6 @@
                     result.hide();
                 }
             } else {
-                console.log('on revient de base');
                 result.removeAttr('style');
                 $('iframe').attr({
                     "width": originalAttributesWidth, // DON'T CHANGE THIS
